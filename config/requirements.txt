@@ -1,0 +1,7 @@
+py-cord
+py-cord[voice]
+youtube-dl
+aiohttp
+asyncio
+beautifulsoup4
+spotipy
